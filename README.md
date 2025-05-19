@@ -9,7 +9,7 @@
   - LinkedIn: [www.linkedin.com/in/muhammad-annas-khan-302157223](https://www.linkedin.com/in/muhammad-annas-khan-302157223)  
   - Email: kanas1431@gmail.com  
   - Phone: +92 323 268 8820
-- 🎓 I’m currently a student at Sindh Madressatul Islam University.
+- 🎓 I’m persuading my degree in BS Software Engineering from Sindh Madrassa-tul-Islam University 
 - 🤝 Other activities: I have volunteered at RELO Pakistan, an event organized by the American Embassy, and served as a presenter at Sustain Innovation.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy giving back to the community and inspiring others through volunteering and public speaking.
