@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**annaskhan-dev/annaskhan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on modern web and app development projects.
+- 🌱 I’m currently learning modern web and app development through Sylani and Udemy.
+- 👯 I’m looking to collaborate on interesting web development projects.
+- 🤔 I’m looking for help with expanding my skills and real-world project experience.
+- 💬 Ask me about web development, app development, and learning resources.
+- 📫 How to reach me:  
+  - LinkedIn: [www.linkedin.com/in/muhammad-annas-khan-302157223](https://www.linkedin.com/in/muhammad-annas-khan-302157223)  
+  - Email: kanas1431@gmail.com  
+  - Phone: +92 323 268 8820
+- 🎓 I’m currently a student at Sindh Madressatul Islam University.
+- 🤝 Other activities: I have volunteered at RELO Pakistan, an event organized by the American Embassy, and served as a presenter at Sustain Innovation.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy giving back to the community and inspiring others through volunteering and public speaking.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect or collaborate!
