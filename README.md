@@ -1,16 +1,14 @@
 ### 🛠️ Tech Stack & Tools
 
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-EDF2F7?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7FAFC?style=flat-square&logo=javascript&logoColor=F6E05E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-F7FAFC?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![HTML5](https://img.shields.io/badge/HTML5-FFF5F5?style=flat-square&logo=html5&logoColor=E34F26)
+#### 💻 Client Side
+![React](https://img.shields.io/badge/-React-1A1B26?style=flat-square&logo=react&logoColor=00DAD9)
+![JS](https://img.shields.io/badge/-JavaScript-1A1B26?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/-Tailwind-1A1B26?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
 
-#### ⚙️ Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-F0FDF4?style=flat-square&logo=nodedotjs&logoColor=16A34A)
-![Express](https://img.shields.io/badge/Express-F8FAFC?style=flat-square&logo=express&logoColor=0F172A)
-![MongoDB](https://img.shields.io/badge/MongoDB-F0FDF4?style=flat-square&logo=mongodb&logoColor=15803D)
-![PHP](https://img.shields.io/badge/PHP-F5F3FF?style=flat-square&logo=php&logoColor=4F46E5)
+#### 🛡️ Server Side
+![Node](https://img.shields.io/badge/-Node.js-1A1B26?style=flat-square&logo=nodedotjs&logoColor=39FF14)
+![Express](https://img.shields.io/badge/-Express-1A1B26?style=flat-square&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1A1B26?style=flat-square&logo=mongodb&logoColor=00FF66)
 
 
 # Hi there! 👋
