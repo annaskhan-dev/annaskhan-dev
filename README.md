@@ -1,15 +1,16 @@
 ### 🛠️ Tech Stack & Tools
 
 #### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232a?style=plastic&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-EDF2F7?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7FAFC?style=flat-square&logo=javascript&logoColor=F6E05E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-F7FAFC?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-FFF5F5?style=flat-square&logo=html5&logoColor=E34F26)
 
-#### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=plastic&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=plastic&logo=mongodb&logoColor=white)
-
+#### ⚙️ Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-F0FDF4?style=flat-square&logo=nodedotjs&logoColor=16A34A)
+![Express](https://img.shields.io/badge/Express-F8FAFC?style=flat-square&logo=express&logoColor=0F172A)
+![MongoDB](https://img.shields.io/badge/MongoDB-F0FDF4?style=flat-square&logo=mongodb&logoColor=15803D)
+![PHP](https://img.shields.io/badge/PHP-F5F3FF?style=flat-square&logo=php&logoColor=4F46E5)
 
 
 # Hi there! 👋
